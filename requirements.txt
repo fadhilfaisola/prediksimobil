@@ -1,6 +1,5 @@
 streamlit
-lightgbm
 pandas
 numpy
 scikit-learn
-pickle
+lightgbm
